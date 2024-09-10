@@ -78,8 +78,8 @@ TheAnh</a></h1>
 <a href="https://github.com/ntheanh-dev/apartment-management/">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ntheanh-dev&repo=apartment-management&theme=dark" />
 </a>   
-<a href="https://github.com/ntheanh-dev/qwicker-django-backend">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ntheanh-dev&repo=qwicker-django-backend&theme=dark" />
+<a href="https://github.com/ntheanh-dev/qwicker-be">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ntheanh-dev&repo=qwicker-be&theme=dark" />
 </a>   
 <a href="https://github.com/ntheanh-dev/msistore-react">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ntheanh-dev&repo=msistore-react&theme=dark" />
