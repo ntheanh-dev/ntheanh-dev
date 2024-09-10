@@ -1,4 +1,4 @@
-  <h1 align="center">Hi 👋, I'm <a href="https://github.com/theanh204" target="blank">
+  <h1 align="center">Hi 👋, I'm <a href="https://github.com/ntheanh-dev" target="blank">
 TheAnh</a></h1>
 <h5 align="center">A third-year Computer Science student, with a goal to become a Software Engineer.</h5>
 
@@ -30,7 +30,7 @@ TheAnh</a></h1>
     <a style="margin-left: 10px;" target="_blank" href="http://www.linkedin.com/in/anhthenguyen204/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/theanh204">
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/ntheanh-dev">
 		  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
     </a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/thean_20.04/">
@@ -75,26 +75,26 @@ TheAnh</a></h1>
 <img src="https://img.shields.io/badge/-Firebase-000?&amp;logo=Firebase" alt="Redis">
 <p> </p>
 <h2 id="️-my-outstanding -repo">✨ Recent Projects:</h2>
-<a href="https://github.com/theanh204/apartment-management/">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=theanh204&repo=apartment-management&theme=dark" />
+<a href="https://github.com/ntheanh-dev/apartment-management/">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ntheanh-dev&repo=apartment-management&theme=dark" />
 </a>   
-<a href="https://github.com/theanh204/qwicker-django-backend">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=theanh204&repo=qwicker-django-backend&theme=dark" />
+<a href="https://github.com/ntheanh-dev/qwicker-django-backend">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ntheanh-dev&repo=qwicker-django-backend&theme=dark" />
 </a>   
-<a href="https://github.com/theanh204/msistore-react">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=theanh204&repo=msistore-react&theme=dark" />
+<a href="https://github.com/ntheanh-dev/msistore-react">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ntheanh-dev&repo=msistore-react&theme=dark" />
 </a>   
-<a href="https://github.com/theanh204/single-hotel-mangement">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=theanh204&repo=single-hotel-mangement&theme=dark" />
+<a href="https://github.com/ntheanh-dev/single-hotel-mangement">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ntheanh-dev&repo=single-hotel-mangement&theme=dark" />
 </a>   
 <p> </p>
 
 <h2 id="-my-github-stats-and-activity">📈 My GitHub Stats and Activity</h2>
 <h3 id="-profile-stats">💻 Profile Stats</h3>
-<p><img alt="theanh204's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=theanh204&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" height="192px"><img alt="theanh204's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanh204&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" height="192px"></p>
+<p><img alt="ntheanh-dev's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ntheanh-dev&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" height="192px"><img alt="ntheanh-dev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntheanh-dev&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" height="192px"></p>
 <h3 id="-streak-stats">🔥 Streak Stats</h3>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=theanh204&amp;theme=tokyonight" alt="theanh204's GitHub stats"></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ntheanh-dev&amp;theme=tokyonight" alt="ntheanh-dev's GitHub stats"></p>
 
 <hr>
-<p>Credit: <a href="https://github.com/theanh204">theanh204</a></p>
+<p>Credit: <a href="https://github.com/ntheanh-dev">ntheanh-dev</a></p>
 <p>Last Edited on: 30/06/2024</p>
