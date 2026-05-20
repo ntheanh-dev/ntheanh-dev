@@ -1,6 +1,6 @@
   <h1 align="center">Hi 👋, I'm <a href="https://github.com/ntheanh-dev" target="blank">
 TheAnh</a></h1>
-<h5 align="center">A Software Engineer with 1+ year experience.</h5>
+<h5 align="center">A Software Engineer with 2+ year experience.</h5>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="240" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
