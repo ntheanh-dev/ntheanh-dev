@@ -1,6 +1,5 @@
   <h1 align="center">Hi 👋, I'm <a href="https://github.com/ntheanh-dev" target="blank">
 TheAnh</a></h1>
-<h5 align="center">A Software Engineer with 2+ year experience.</h5>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="240" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -74,20 +73,7 @@ TheAnh</a></h1>
 <img src="https://img.shields.io/badge/-Redis-000?&amp;logo=Redis" alt="Redis">
 <img src="https://img.shields.io/badge/-Firebase-000?&amp;logo=Firebase" alt="Redis">
 <p> </p>
-<h2 id="️-my-outstanding -repo">✨ Recent Projects:</h2>
-<a href="https://github.com/ntheanh-dev/apartment-management/">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ntheanh-dev&repo=apartment-management&theme=dark" />
-</a>   
-<a href="https://github.com/ntheanh-dev/qwicker-be">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ntheanh-dev&repo=qwicker-be&theme=dark" />
-</a>   
-<a href="https://github.com/ntheanh-dev/msistore-react">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ntheanh-dev&repo=msistore-react&theme=dark" />
-</a>   
-<a href="https://github.com/ntheanh-dev/single-hotel-mangement">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ntheanh-dev&repo=single-hotel-mangement&theme=dark" />
-</a>   
-<p> </p>
+
 
 <h2 id="-my-github-stats-and-activity">📈 My GitHub Stats and Activity</h2>
 <h3 id="-profile-stats">💻 Profile Stats</h3>
@@ -97,4 +83,4 @@ TheAnh</a></h1>
 
 <hr>
 <p>Credit: <a href="https://github.com/ntheanh-dev">ntheanh-dev</a></p>
-<p>Last Edited on: 18/05/2025</p>
+<p>Last Edited on: 27/08/2026</p>
