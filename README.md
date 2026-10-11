@@ -6,7 +6,7 @@ TheAnh</a></h1>
 </a>
 <ul>
 <li>
-<p>🌱 I'm currently working at TMA solution as a Software Engineer</p>
+<p>🌱 I'm currently working at FPT IS as a FullStack Software Engineer</p>
 </li>
 <li>
 <p>👯 I’m looking to collaborate on github</p>
